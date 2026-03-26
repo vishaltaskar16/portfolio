@@ -1,0 +1,8 @@
+Please upload your images here with these exact filenames:
+
+1. vishal-photo.png - Your professional photo
+2. moodbeats-project.png - MoodBeats project screenshot
+3. lifeguard-project.png - Life Guard Safety App screenshot
+4. citymart-project.png - City Street Mart screenshot
+
+The portfolio is configured to use these images. Upload them to this folder (/public/images/) and they will automatically appear.
